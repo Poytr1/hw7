@@ -34,9 +34,11 @@ import java.util.logging.Logger;
 public class HW7Main {
 
     /**
+     * this is Javadoc test {@link List}
      * @param args the command line arguments
      * @throws FileNotFoundException
      * @throws IOException
+     * @see #compare()
      */
     public static void main(String[] args) throws FileNotFoundException, IOException {
         // TODO code application logic here
