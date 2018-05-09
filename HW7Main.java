@@ -38,7 +38,7 @@ public class HW7Main {
      * @param args the command line arguments
      * @throws FileNotFoundException
      * @throws IOException
-     * @see #compare()
+     * @see compare
      */
     public static void main(String[] args) throws FileNotFoundException, IOException {
         // TODO code application logic here
